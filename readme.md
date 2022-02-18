@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Navis 👋
+# Hi there, I'm Muhammad Navis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## I'm a Srudent In Polinema
