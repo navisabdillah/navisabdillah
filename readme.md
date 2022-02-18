@@ -7,12 +7,10 @@
  - 💬 Ask me about anything you want to discuss :grin:
 
  ### Connect with me:
- [![website](./img/instagram-dark.svg)](https://www.instagram.com/navisabdillah_/)
- [![website](./img/instagram-light.svg)](https://www.instagram.com/navisabdillah_/)
- &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/alwayssaloneeee)
+ [![website](./img/instagram-dark.svg)](https://www.instagram.com/navisabdillah_/) 
+  &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/alwayssaloneeee)
-&nbsp;&nbsp;
+
  
  ### Languages and Tools:
  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
