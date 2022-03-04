@@ -6,14 +6,20 @@
  - 🌱 I’m currently learning everything 🤣
  - 💬 Ask me about anything you want to discuss :grin:
 
+## About Me
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=navisabdillah&show_icons=true&include_all_commits=true&theme=radical" alt="fauzanmuh's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=navisabdillah&layout=compact&theme=radical" />
+</a>
+
+
  ### Connect with me:
  [![website](./img/instagram-dark.svg)](https://www.instagram.com/navisabdillah_/) 
+ [![website](./img/instagram-light.svg)](https://www.instagram.com/navisabdillah_/) 
   &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/alwayssaloneeee)
-
+[![website](./img/twitter-dark.svg)](https://twitter.com/alwayssaloneeee) 
+[![website](./img/twitter-light.svg)](https://twitter.com/alwayssaloneeee)
  
- ### Languages and Tools:
- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
- <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
- <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
